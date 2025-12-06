@@ -1,0 +1,10 @@
+2025-11-04 09:54:45,100 - ERROR - Failed to load tasks. Returning empty list.
+2025-11-04 09:54:45,102 - INFO - Task added: Walking
+2025-11-04 09:55:32,074 - INFO - Task deleted: Walking
+2025-11-04 09:56:23,708 - INFO - Task added: Dancing
+2025-11-04 09:56:34,030 - INFO - Task added: movie time
+2025-11-04 09:56:47,735 - INFO - Task added: music time
+2025-11-04 11:29:33,991 - INFO - Task marked complete: Dancing
+2025-11-04 11:29:40,446 - INFO - Task marked complete: movie time
+2025-11-04 11:29:46,910 - INFO - Task marked complete: music time
+2025-11-04 11:29:52,243 - INFO - Application closed by user.

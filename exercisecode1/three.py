@@ -1,0 +1,1 @@
+print(10, 20, 30, sep=" | ", end=" --- End of Line")
