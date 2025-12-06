@@ -1,0 +1,10 @@
+#version 1
+print("Welcome to Calculator")
+a = int(input("Enter first Number:"))
+b = int(input("Enter second Number:"))
+print("Addition:", a+b)
+print("Multiplication:", a*b)
+print("Subtraction:", a-b)
+print("Division:", a/b)
+print("welcome to chakra calculator Branch A Version")
+print("welcome to chakra calculator B version")
