@@ -1,0 +1,7 @@
+name,subject,score
+Alice,Math,90
+Bob,Science,85
+Charlie,English,abc          # malformed (non-numeric)
+David,Math,78
+Emma,,92                     # malformed (missing subject)
+Frank,Science,88

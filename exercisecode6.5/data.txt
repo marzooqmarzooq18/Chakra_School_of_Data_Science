@@ -1,0 +1,4 @@
+Python makes automation easy.
+JSON configurations are flexible.
+Error handling is important.
+Keep learning every day!

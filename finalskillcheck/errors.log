@@ -1,0 +1,3 @@
+[2025-11-05 22:35:48] ValidationError: Invalid input: empty email field
+[2025-11-05 22:35:48] DatabaseError: Failed to connect to the database server
+[2025-11-05 22:35:48] NetworkError: Connection timed out while reaching api.server.com

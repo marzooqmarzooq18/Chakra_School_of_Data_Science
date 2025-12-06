@@ -1,0 +1,17 @@
+2025-11-06 19:49:25,089 - INFO - Updated product 3214
+2025-11-06 19:49:57,761 - INFO - Updated product 3213
+2025-11-06 19:52:29,799 - INFO - Subtotal: 25000.0, Discount: 5.0%, Tax: 10.0%, Final Total: 26125.0
+2025-11-06 19:52:29,801 - INFO - Bill B20251106_001 created successfully with total: 26125.0
+2025-11-06 19:53:18,713 - INFO - Added product: RX100
+2025-11-06 20:20:46,842 - INFO - Added product: bike
+2025-11-07 10:59:55,422 - INFO - Subtotal: 25000000.0, Discount: 5.0%, Tax: 10.0%, Final Total: 26125000.0
+2025-11-07 10:59:55,424 - INFO - Bill B20251107_002 created successfully with total: 26125000.0
+2025-11-07 11:02:27,230 - INFO - Subtotal: 18000000.0, Discount: 5.0%, Tax: 10.0%, Final Total: 18810000.0
+2025-11-07 11:02:27,233 - INFO - Bill B20251107_003 created successfully with total: 18810000.0
+2025-11-07 15:41:53,600 - INFO - Subtotal: 70.0, Discount: 5.0%, Tax: 10.0%, Final Total: 73.15
+2025-11-07 15:41:53,603 - INFO - Bill B20251107_004 created successfully with total: 73.15
+2025-11-07 15:46:47,133 - INFO - New user registered: admin
+2025-11-07 15:48:13,004 - INFO - User logged in: admin
+2025-11-07 22:54:20,173 - ERROR - Failed login attempt for admin
+2025-11-07 22:55:00,933 - INFO - User logged in: admin
+2025-11-08 23:30:03,415 - INFO - User logged in: admin

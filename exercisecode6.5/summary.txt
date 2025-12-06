@@ -1,0 +1,6 @@
+=== File Summary ===
+Input file: data.txt
+Lines read: 3
+First line preview: Python makes automation easy.
+
+No defaults were used.

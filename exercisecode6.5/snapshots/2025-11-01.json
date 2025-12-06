@@ -1,0 +1,51 @@
+{
+  "location": {
+    "name": "Pondicherry",
+    "region": "Puducherry",
+    "country": "India",
+    "lat": 11.93,
+    "lon": 79.83,
+    "tz_id": "Asia/Kolkata",
+    "localtime_epoch": 1761995742,
+    "localtime": "2025-11-01 16:45"
+  },
+  "current": {
+    "last_updated_epoch": 1761995700,
+    "last_updated": "2025-11-01 16:45",
+    "temp_c": 28.3,
+    "temp_f": 82.9,
+    "is_day": 1,
+    "condition": {
+      "text": "Patchy rain nearby",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+      "code": 1063
+    },
+    "wind_mph": 9.6,
+    "wind_kph": 15.5,
+    "wind_degree": 152,
+    "wind_dir": "SSE",
+    "pressure_mb": 1008.0,
+    "pressure_in": 29.78,
+    "precip_mm": 0.04,
+    "precip_in": 0.0,
+    "humidity": 74,
+    "cloud": 75,
+    "feelslike_c": 32.0,
+    "feelslike_f": 89.5,
+    "windchill_c": 28.3,
+    "windchill_f": 82.9,
+    "heatindex_c": 32.0,
+    "heatindex_f": 89.5,
+    "dewpoint_c": 23.2,
+    "dewpoint_f": 73.7,
+    "vis_km": 10.0,
+    "vis_miles": 6.0,
+    "uv": 0.7,
+    "gust_mph": 14.8,
+    "gust_kph": 23.9,
+    "short_rad": 420.56,
+    "diff_rad": 123.55,
+    "dni": 332.05,
+    "gti": 383.07
+  }
+}
